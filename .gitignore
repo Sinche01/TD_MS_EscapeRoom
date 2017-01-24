@@ -60,3 +60,18 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ignoreStarterContent
+Content/StarterContent/*
+
+#IgnoneDATABASE
+*.VC.db
+
+#IgnoreFPSCONTENT
+Content/FirstPerson/*
+
+#IgnoreFPSCONTENTCPP
+Content/FirstPerson/*
+
+#IgnoreSaved
+Saved/*
